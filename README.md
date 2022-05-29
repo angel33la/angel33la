@@ -8,3 +8,4 @@
 angel33la/angel33la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/Angel33la"><img src="https://api.daily.dev/devcards/bfb4b32f61e648c2a923567ebe0e6726.png?r=y7d" width="400" alt="Angella McConnell's Dev Card"/></a>
