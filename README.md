@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @angel33la
-- 👀 I’m interested in ...becoming a fullstack developer. 
-- 🌱 I’m currently learning ...different coding languages and taking a few tutorials.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...on here or you can always email me @angel33la@outlook.com
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angella McConnell
+=========================================================================================================================================
 
-<!---
-angel33la/angel33la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<a href="https://app.daily.dev/Angel33la"><img src="https://api.daily.dev/devcards/bfb4b32f61e648c2a923567ebe0e6726.png?r=y7d" width="400" alt="Angella McConnell's Dev Card"/></a>
+Aspiring Web Developer
+----------------------
+
+I've been learning to code to become a front-end web developer.
+
+* 🌍  I'm based in Dowagiac, Michigan
+* ✉️  You can contact me at [angel1130la@gmail.com](mailto:angel1130la@gmail.com)
+* 🧠  I'm learning HTML, CSS, & Javascript
+
+
+
+<a href="https://www.twitter.com/angel1130la" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/angel1130la?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
+/></a><a href="https://www.github.com/angel33la" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/angel33la?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/Angel33la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/angel1130la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Angel33la#3928" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/angel1130la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/angel33la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://angel33la.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/angellamichellemcconnell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/angella1130mcconnell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@angel1130la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/angel1130la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/AngellaMcConnell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/angel33la/channel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/angel33la" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel33la&langs_count=10&title_color=22c55e&text_color=ec4899&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/angel33la"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
