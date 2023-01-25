@@ -12,9 +12,7 @@ I've been learning to code to become a front-end web developer.
 
 
 
-<a href="https://www.twitter.com/angel1130la" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/angel1130la?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-/></a><a href="https://www.github.com/angel33la" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/angel1130la" target="_blank" rel="noreferrer"><a href="https://www.github.com/angel33la" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/angel33la?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
 ### Skills
@@ -33,7 +31,7 @@ src="https://img.shields.io/github/followers/angel33la?logo=github&style=for-the
 
 ### Badges
 
-<a href="https://github.com/angel33la" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel33la&langs_count=10&title_color=22c55e&text_color=ec4899&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ### Support Me
 
