@@ -1,14 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angella McConnell
 =========================================================================================================================================
 
-Aspiring Web Developer
+Fullstack Developer
 ----------------------
 
-I've been learning to code to become a front-end web developer.
+I've been learning to code to become a fullstack developer.
 
 * 🌍  I'm based in Dowagiac, Michigan
 * ✉️  You can contact me at [angel1130la@gmail.com](mailto:angel1130la@gmail.com)
 * 🧠  I'm learning HTML, CSS, & Javascript
+* 🎓  I'm atending Bloom Institute of Technology
+* 🎓  I'm attending Full Sail University	
 
 
 
