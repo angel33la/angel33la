@@ -8,9 +8,8 @@ I've been learning to code to become a fullstack developer.
 
 * 🌍  I'm based in Dowagiac, Michigan
 * ✉️  You can contact me at [angel1130la@gmail.com](mailto:angel1130la@gmail.com)
-* 🧠  I'm learning HTML, CSS, & Javascript
-* 🎓  I'm atending Bloom Institute of Technology
-* 🎓  I'm attending Full Sail University	
+* 🧠  I'm learning MERN to make websites/web applications, RestAPI, AuthO, Heroku...
+* 🎓  I'm attending Full Sail University / Class of 2026	
 
 
 
