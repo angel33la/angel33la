@@ -18,12 +18,18 @@ src="https://img.shields.io/github/followers/angel33la?logo=github&style=for-the
 
 ### Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,md,mongodb,mysql,nextjs,nodejs,npm,postman,react,sass,styledcomponents,vercel,vscode,vite,github,materialui,jest,heroku,figma,babel,git,docker" />
+  </a>
+</p>
 
-<p align="left">
+<!---<p align="left">
+  <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+</p>--->
 
 
 ### Socials
