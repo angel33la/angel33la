@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a MERN Music/Search/Play Application using YouTubeDataAPI & AuthO.<br>👯 I’m looking to collaborate on any project that I can learn and develop my skillset with.<br>🤝 I’m looking for help with getting any leads to possible internships, employment, or any other opportunities.<br>🌱 I’m currently learning at Full Sail University; My last class is December 2026, CLASS OF 2026!<br>💬 Ask me about my background and how I decided to pursue a career in web development.<br>⚡ Fun fact, I have way too many cat situations.
+🔭 I’m currently working on a MERN Music/Search/Play Application using YouTubeDataAPI & AuthO.<br>👯 I’m looking to collaborate on any project that I can learn and develop my skillset with.<br>🤝 I’m looking for help with getting any leads to possible internships, employment, or any other opportunities.<br>🌱 I’m currently learning at Full Sail University; My last class is December 2026, <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/FSU_2026-100000?style=for-the-badge&logo=Github&logoColor=ffffff&labelColor=000000&color=e55525'/></a>CLASS OF 2026!<br>💬 Ask me about my background and how I decided to pursue a career in web development.<br>⚡ Fun fact, I have way too many cat situations.
 
 
 ## 🌐 Socials:
